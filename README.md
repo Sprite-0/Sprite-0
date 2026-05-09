@@ -1,7 +1,4 @@
-## Hi there 👋
+# Hi, I'm Kapish 👋
 
-
-
-- 🔭 I’m currently working on this page
-- 🌱 I’m currently learning VHDL/python
-
+I'm a third-year Electronics and Telecommunication Engineering student focused on digital logic design, FPGA development, and microelectronics. 
+*   🛠️ **Stack:** Verilog, VHDL, C++, Python, Linux, Vivado.
